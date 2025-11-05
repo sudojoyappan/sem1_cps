@@ -1,0 +1,9 @@
+d={"Hydrogen":["H",1,14,20],
+   "Hydrogen":["H",1,14,20],
+   "Hydrogen":["H",1,14,20],
+   "Hydrogen":["H",1,14,20],
+   "Hydrogen":["H",1,14,20],
+   "Hydrogen":["H",1,14,20],
+   "Hydrogen":["H",1,14,20],
+   "Hydrogen":["H",1,14,20],
+   "Hydrogen":["H",1,14,20]}
